@@ -51,3 +51,11 @@ Educational institutions, corporate offices, government agencies, and healthcare
 | http://192.168.0.107/          | **~HB8-NODE-DASHBOARD**             |
 | http://192.168.0.107/update    | **~HB8-NODE-OTA**                   |
 
+
+![image](https://github.com/KaustubhShejole/FingerPrintBiometricsProject/assets/99681980/576c4f06-d330-40bf-b18e-6eb423a7bd9b)
+
+![image](https://github.com/KaustubhShejole/FingerPrintBiometricsProject/assets/99681980/b3be6efa-9bfa-467d-9151-ed2217eee9d1)
+
+![image](https://github.com/KaustubhShejole/FingerPrintBiometricsProject/assets/99681980/17e71e23-2fef-4134-9e8c-48bf0b0066d4)
+
+
