@@ -1,5 +1,7 @@
 # **FingerPrintBiometricsProject: Automated Fingerprint Attendance Management System**
 
+This project was done by Mr. Kaustubh S. Shejole and Mr. Aayush Naphade for VNIT Nagpur first-year hostels during August 2024-November 2024.
+
 > The Advanced Fingerprint Attendance System is a sophisticated solution that integrates biometric fingerprint recognition, Internet of Things (IoT) technology, and web-based applications to streamline attendance tracking processes. Designed with a modular architecture and leveraging open-source technologies, the system offers cost-efficiency and scalability, making it suitable for a wide range of organizations, including educational institutions, corporate offices, government agencies, and healthcare facilities.
 
 ## *Key Features*
