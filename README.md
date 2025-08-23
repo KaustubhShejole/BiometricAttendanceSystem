@@ -1,4 +1,4 @@
-# **FingerPrintBiometricsProject: Automated Fingerprint Attendance Management System**
+# **FingerTrack: Automated Fingerprint Attendance Management System**
 
 This project was done by Mr. Kaustubh S. Shejole and Mr. Aayush Naphade for VNIT Nagpur first-year hostels during August 2024-November 2024.
 
